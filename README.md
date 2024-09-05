@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Hazalt56
+- 👋 Hi, I'm a Computer Science student pursuing a degree, with solid skills in front-end and back-end development, database management, and object-oriented programming. Motivated and passionate, I constantly seek new challenges to grow professionally. 
 - 👀 I’m interested in any type of programming
 - 👾 I’m currently studying at the computer science university of salerno
